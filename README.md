@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 Atualmente estudando HTML, CSS e Javascript<br>🌱 Concluindo o curso técnico em Mecatrônica<br>⚡ Apaixonada pelo universo Geek e "Bookstan "
+🔭 Atualmente estudando HTML, CSS e Javascript e entusiasta na área de Machine Learning<br>🌱 Técnica em Mecatrônica e bacharelanda em Engenharia da Computação<br>⚡ Apaixonada pelo universo Geek e "Bookstan "
 
 
 ## 🌐 Socials:
